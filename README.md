@@ -1,36 +1,57 @@
 # DevTrack AI 🚀
 
-DevTrack AI is an AI-powered developer analytics platform that helps developers track GitHub activity, repository insights, coding streaks, language distribution, and career growth metrics.
+DevTrack AI is an AI-powered developer analytics platform that helps developers monitor GitHub activity, analyze repository performance, track coding consistency, and gain insights for career growth.
 
 ## Features
 
-- GitHub Authentication
-- Repository Analytics
-- Developer Score Tracking
-- Commit Activity Visualization
-- Language Distribution Charts
-- Resume Analyzer
-- Interview Preparation Tools
-- Internship Matcher
-- Responsive Modern UI
-
-## Tech Stack
-
-- React
-- TypeScript
-- Vite
-- Supabase
-- GitHub OAuth
-- Tailwind CSS
-- Recharts
-- Vercel
+- 🔐 GitHub Authentication (OAuth)
+- 📊 Repository Analytics Dashboard
+- 📈 Developer Score Tracking
+- 🔥 Commit Activity & Coding Streak Visualization
+- 💻 Programming Language Distribution Analysis
+- 📄 AI-Powered Resume Analyzer
+- 🎯 Interview Preparation Tools
+- 💼 Internship Matching Support
+- 📱 Responsive and Modern User Interface
 
 ## Live Demo
 
-https://devtrack-growth-platform-71yi67axq.vercel.app
+🔗 [Live Application](https://dev-trackai.vercel.app/)
 
-## Author
+## Tech Stack
 
-**Neelima Kambampati**
+### Frontend
+- React
+- TypeScript
+- Vite
 
-GitHub: https://github.com/naadia0019-pixel
+### Styling
+- Tailwind CSS
+
+### Backend & Database
+- Supabase
+
+### Authentication
+- GitHub OAuth
+
+### Data Visualization
+- Recharts
+
+### Deployment
+- Vercel
+
+### Version Control
+- Git & GitHub
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/shaik-naadia-tasleem-50845235b/
+- GitHub: https://github.com/naadia0019-pixel
+- Email: naadia0019@gmail.com
